@@ -1,0 +1,12 @@
+This README file contains information on the contents of the meta-norik-flutter layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+  URI: https://git.phytec.de/meta-ampliphy/
+  branch: kirkstone
+
+  URI: https://github.com/meta-flutter/meta-flutter
+  branch: kirkstone
